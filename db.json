@@ -1,0 +1,29 @@
+{
+  "produits": [
+    {
+      "id": 1,
+      "title": "voiture",
+      "description": "4 roues moyen"
+    },
+    {
+      "id": 2,
+      "title": "moto",
+      "description": "2 roues moyen"
+    },
+    {
+      "id": 3,
+      "title": "vélo",
+      "description": "2 roues minces"
+    },
+    {
+      "id": 4,
+      "title": "avion",
+      "description": "2 ailes et vole"
+    },
+    {
+      "id": 5,
+      "title": "char",
+      "description": "fait pour le combat"
+    }
+  ]
+}
